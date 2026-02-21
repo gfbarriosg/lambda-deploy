@@ -51,4 +51,7 @@ jobs:
     
     - name: test aws cli
       run: aws s3 ls
+      
+    - name: deploy or update lambda
+      run: zappa update dev
   
