@@ -36,7 +36,7 @@ jobs:
           echo test, and deploy your project.
           
       - name: mostrar ubicacion
-        run: pws
+        run: pwd
         
       - name: listar archivos
         run: ls
