@@ -9,7 +9,6 @@
             "s3transfer",
             "concurrent"
         ],
-        "profile_name": "default",
         "project_name": "lambda-zappa",
         "runtime": "python3.10",
         "keep_warm": false,
